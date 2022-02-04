@@ -18,6 +18,6 @@
 5) Allow app to sign in to google account => generated password enter in file: e_mail.py in line 7 for email_app_pass (https://support.google.com/accounts/answer/185833?hl=en)
 6) Configure gmail account to send and receive mail with price alert with same account in _mail.py in line 6.
 7) In products.json file configure products to check for their prices at ceneo.pl. Set as many products as you need:
-a) property productName = product name
-b) property ceneoId = 96958323 => https://www.ceneo.pl/96958323
-c) property alertPrice = floating point number (if product price achieves this value email notification will be send)
+- property productName = product name 
+- property ceneoId = 96958323 => https://www.ceneo.pl/96958323
+- property alertPrice = floating point number (if product price achieves this value email notification will be send)
