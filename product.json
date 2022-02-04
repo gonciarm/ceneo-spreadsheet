@@ -1,0 +1,10 @@
+{
+  "allProducts": [
+    {"productName": "enter product1 name",
+    "ceneoId": "enter product1 ceneo id from url",
+    "alertPrice": enter alert price},
+    {"productName": "enter product2 name",
+    "ceneoId": "enter product ceneo2 id from url",
+    "alertPrice": enter alert price}
+  ]
+}
